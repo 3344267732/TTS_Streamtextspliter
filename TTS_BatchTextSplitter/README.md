@@ -89,7 +89,7 @@ git clone https://github.com/your-repo/TTS_BatchTextSplitter.git
 2. 重启ComfyUI
 
 ### 基础工作流
-
+本工作流是基于comfyui官方版本，其余的节点请前往https://github.com/billwuhao/ComfyUI_IndexTTS进行下载。
 只需3个节点即可实现流式TTS：
 
 ```
@@ -583,8 +583,7 @@ MIT License
 
 ## 📞 联系方式
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/TTS_BatchTextSplitter/issues)
-- **讨论**: [GitHub Discussions](https://github.com/your-repo/TTS_BatchTextSplitter/discussions)
+- **Email**:3344267732@qq.com
 
 ---
 
