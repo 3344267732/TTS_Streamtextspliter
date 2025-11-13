@@ -4,6 +4,9 @@
 
 2025-11-03 update
 ---
+**工作流示例**
+<img width="1442" height="581" alt="5d9a34c756d052ddbf9365f5e3170d03" src="https://github.com/user-attachments/assets/5578210f-736d-42b7-9f13-b08bb0f21e06" />
+
 
 ## 📖 简介
 
